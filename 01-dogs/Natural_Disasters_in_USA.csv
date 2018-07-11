@@ -1,0 +1,102 @@
+Type_of_disaster,Region,Month,Year,Type_incident
+Fire,California,July,2018,Holiday Fire
+Fire,California,July,2018,West Fire
+Storm,Texas,June,2018,Severe Storm 
+Flooding,Texas,June,2018,Flooding
+Fire,California,July,2018,Klamathon fire
+Fire,Colorado Lake,July,2018,Christine fire
+Storm,Maryland,May,2018,Severe Storm 
+Flooding,Maryland,May,2018,Flooding
+Fire,Utah,July,2018,Dollarl Ridge Fire
+Fire,Colorado,June,2018,Chateau fire
+Storm,Nebraska,April,2018,Severe winter storm 
+Straight-line winds,Nebraska,April,2018,Straight line winds
+Fire,Colorado,June,2018,Spring creek fire
+Storm,Massachusetts,March,2018,Severe winter storm 
+Flooding,Massachusetts,March,2018,Flooding
+Fire,Oklahoma,April,2018,Wildfire
+Storm,Maryland,May,2018,Severe storm 
+Flooding,Maryland,May,2018,Flooding
+Fire,California,June,2018,Creek fire
+Fire,California,June,2018,Pawnee fire
+Fire,Oregon,June,2018,Graham fire
+Fire,Oregon,June,2018,Graham fire
+Fire,Nevada,June,2018,Wildfire
+Fire,Wyoming,June,2018,Creek fire
+Storm Alaska,December,2017,Severe storm
+Storm New,Hampshire,March,2018,Severe storm 
+Flooding,New Hampshire,March,2018,Flooding
+Storm,New Hampshire,March,2018,Severe winter storm
+Snowstorm,New Hampshire,March,2018,Snowstorm
+Storm,New Jersey,March,2018,Severe winter storm
+Snowstorm,New Jersey,March,2018,Snowstorm
+Fire,New Mexico,June,2018,Soldier Canyon fire
+Fire,New Mexico,May,2018,Wildfire
+Storm,Maine,March,2018,Severe storm
+Flooding,Maine,March,2018,Flooding
+Fire,Arizona,May,2018,Wildfire
+Volcanic eraption,Hawaii,May,2018,Volcanic eraption
+Earthquake,Hawaii,May,2018,Earthquake
+Storm,Hawaii,May,2018,Severe storm
+Flooding,Hawaii,April,2018,Flooding
+Landslides,Hawaii,April,2018,Landslide
+Mudslides,Hawaii,April,2018,Mudslide
+Tornado,North Carolina,April,2018,Tornado
+Storm,North Carolina,April,2018,Severe storm
+Storm,Indiana,February,2018,Severe storm
+Flooding,Indiana,February,2018,Flooding
+Fire,Texas,May,2018,Fire
+Fire,Arizona,April,2018,Tinder Fire
+Storm,Alabama,March,2018,Severe storm 
+Tornadoes,Alabama,March,2018,Tornadoes
+Storm,Kentucky,February,2018,Severe storm
+Tornadoes,Kentucky,March,2018,Tornadoes
+Flooding,Kentucky,February,2018,Flooding
+Landslides,Kentucky,March,2018,Landslides
+Mudslides,Kentucky,March,2018,Mudslides
+Fire,Texas,April,2018,Fire
+Storm,West Virginia,February,2018,Severe storm
+Flooding,West Virginia,February,2018,Flooding
+Landslides,West Virginia,February,2018,Landslides
+Mudslides,West Virginia,February,2018,Mudslides
+Storm,Ohio,February,2018,Severe storm
+Landslides,Ohio,February,2018,Landslide
+Mudslide,Ohio,February,2018,Mudslide
+Fire,Texas,April,2018,Fire
+Fire,Texas,April,2018,Fire
+Fire,Oklahoma,April,2018,Fire
+Fire,Oklahoma,April,2018,Fire
+Storm,Kentucky,February,2018,Severe storm
+Flooding,Kentucky,February,2018,Flooding
+Landslides,Kentucky,February,2018,Landslides
+Mudslides,Kentucky,February,2018,Mudslides
+Fire,Oklahoma,March,2018,Fire
+Storm,American Samoa,February,2018,Tropical storm Gita
+Storm,American Samoa,February,2018,Tropical storm Gita
+Storm,Vermont,October,2017,Severe storm
+Flooding,Vermont,October,2017,Flooding
+Storm,New Hampshire,October,2017,Severe storm
+Flooding,New Hampshire,October,2017,Flooding
+Storm,Maine,October,2017,Severe storm
+Flooding,Maine,October,2017,Flooding
+Fire,California,December,2017,Wildfire
+Flooding,California,December,2017,Flooding
+Mudflows,California,December,2017,Mudflows
+Debris flows,California,December,2017,Debris flows
+Typhoon,Northern Mariana Islands,August,2015,Typhoon Soudelor
+Storm,Pueblo of Acoma,October,2017,Severe storm
+Flooding,Pueblo of Acoma,October,2017,Flooding
+Storm,Alaska,September,2017,Severe storm
+Fire,South Dakota,December,2017,Wildfire
+Fire,California,December,2017,Wildfire
+Fire,California,December,2017,Wildfire
+Fire,California,December,2017,Wildfire
+Fire,California,December,2017,Wildfire
+Fire,California,December,2017,Wildfire
+Fire,California,December,2017,Wildfire
+Hurricane,Mississippi,October,2017,Hurricane
+Hurricane,Alabama,October,2017,Hurricane
+Flooding,New York,May,2017,Flooding
+Storm,Kansas,July,2017,Severe storm
+Straight-line winds,Kansas,July,2017,Straight-line winds
+Flooding,Kansas,July,2017,Flooding
